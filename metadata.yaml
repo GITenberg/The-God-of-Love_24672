@@ -1,0 +1,30 @@
+_repo: The-God-of-Love_24672
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McCarthy, Justin H. (Justin Huntly)
+    aliases:
+    - M'Carthy, Justin Huntly
+    - McCarthy, Justin Huntly
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '25862'
+    url: http://www.gutenberg.org/2009/agents/25862
+    wikipedia: http://en.wikipedia.org/wiki/Justin_Huntly_McCarthy_%281859-1936%29
+description: ''
+gutenberg_issued: '2008-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Dante Alighieri, 1265-1321 -- Fiction'
+title: The God of Love
+url: http://www.gutenberg.org/ebooks/24672
